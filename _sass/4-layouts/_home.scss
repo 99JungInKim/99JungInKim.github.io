@@ -16,11 +16,11 @@
   .logo-title {
     .logo-text {
       font-family: 'Libre Barcode 39 Text', sans-serif;
-      font-size: 16px;
+      font-size: 32px;
       font-weight: 700;
-      line-height: 16px;
+      line-height: 32px;
       text-transform: uppercase;
-      letter-spacing: 5px;
+      letter-spacing: 0px;
       color: $text;
       &:hover {
         color: #fff;
