@@ -5,9 +5,9 @@ image: 08.jpg
 permalink: /about/
 ---
 
-저는 김정인입니다. Arkdata의 연구원이자 개발팀 Shift 4의 리더를 맡고 있습니다.
-My name is Natali Anderson. I'm an actress. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+Arkdata의 연구원이자 자율 개발 팀 Shift 4의 리더를 맡고 있습니다.
 
+동료들과 함께 꾸준히 성장해 나가는 것이 제 목표입니다.
 #### Austin scenester...
 <small>2008 - 2017</small>
 
