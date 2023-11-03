@@ -23,7 +23,7 @@ pinterest: https://www.pinterest.com/ # Add your Facebook handle
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: jungin-kim # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
@@ -43,7 +43,7 @@ mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.
 
 #-------------------------------
 # Build settings
-markdown: kramdown
+markdown: markdown
 permalink: ':title/'
 plugins:
   - jekyll-paginate
