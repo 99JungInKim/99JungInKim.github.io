@@ -203,6 +203,7 @@ table th {
 table tr {
   background-color: lighten(#2d333b, 45%);
   transition: all .3s ease;
+  color: $white;
   &:nth-child(even) {
     background-color: #2d333b;
   }
@@ -216,4 +217,5 @@ table td {
 
 table tr:hover {
   background-color: $white;
+  color: $black;
 }
