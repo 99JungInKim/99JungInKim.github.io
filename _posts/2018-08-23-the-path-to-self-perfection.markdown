@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The path to self-perfection
+title:  혹시 한글 지원이 안되는걸까?
 date:   2018-08-23 16:03:30 +0300
 image:  05.jpg
 tags:   Life
