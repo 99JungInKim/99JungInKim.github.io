@@ -62,5 +62,5 @@ export $ORACLE_HOME=<path>
 
 *ITALIC*
 
-**BOLD&ITALIC**
+***BOLD&ITALIC***
 
